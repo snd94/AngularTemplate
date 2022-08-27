@@ -4,9 +4,9 @@
 * Now UI Kit Angular - v1.3.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/now-ui-kit-angular
+* Product Page: https://www.creative-tim.com/product/durga-yuvaka-mandala
 * Copyright 2020 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/now-ui-kit-angular/blob/master/LICENSE.md)
+* Licensed under MIT (https://github.com/creativetimofficial/durga-yuvaka-mandala/blob/master/LICENSE.md)
 
 * Coded by Creative Tim
 
